@@ -6,7 +6,6 @@ yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
 .pnpm-debug.log*
-pnpm-lock.yaml
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 
@@ -34,8 +33,6 @@ bower_components
 
 # node-waf configuration
 .lock-wscript
-
-pnpm-lock.yaml
 
 # Compiled binary addons (https://nodejs.org/api/addons.html)
 build/Release
