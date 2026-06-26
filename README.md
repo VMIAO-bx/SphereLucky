@@ -2,7 +2,7 @@
 
 # SphereLucky 🚀🚀🚀🚀
 
-log-lottery是一个可配置可定制化的抽奖应用，炫酷3D球体，可用于年会抽奖等活动，支持奖品、人员、界面、图片音乐配置。
+SphereLucky是一个可配置可定制化的抽奖应用，炫酷3D球体，可用于年会抽奖等活动，支持奖品、人员、界面、图片音乐配置。
 
 > 如果进入网站遇到图片无法显示或有报错的情况，请先到【全局配置】-【界面配置】菜单中点击【重置所有数据】按钮清除数据后进行更新。
 
@@ -115,32 +115,6 @@ npm run build
     ```
 
     容器运行成功后即可在本地通过<http://localhost:9279/log-lottery/>访问
-
-## 软件安装包
-
-可前往[Releases](https://github.com/LOG1997/log-lottery/releases)下载。
-
-目前只支持windows平台使用，跨平台安装包暂不支持，如有需要请自行编译，参照[贡献文档](https://github.com/LOG1997/log-lottery/blob/main/.github/CONTRIBUTING.md)
-
-## 支持项目
-
-<h3>💝 赞助支持</h3>
-
-<p><em>如果您觉得 log-lottery 对您有帮助，欢迎赞助支持，您的支持是我们不断前进的动力！</em></p>
-
-<div>
- <img src="./static/images/ZanShang.png" height="240" alt="WeChat Code">
-</div>
-
-<br>
-
-## Contributors
-
-Thanks to all the people who have contributed to this project!
-
-[![Contributors](https://contrib.rocks/image?repo=log1997/log-lottery)](https://github.com/LOG1997/log-lottery/graphs/contributors)
-
-## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=LOG1997/log-lottery&type=Date)](https://star-history.com/#LOG1997/log-lottery&Date)
 
